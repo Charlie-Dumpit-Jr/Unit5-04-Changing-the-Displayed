@@ -6,7 +6,7 @@ document.getElementById('show').addEventListener('click', show)
 document.getElementById('background').addEventListener('click', background)
 
 function image () {
-  document.getElementById('currypicture').src='Images/wade.jpg'
+  document.getElementById('currypicture').src = 'Images/wade.jpg'
 }
 
 function text () {
